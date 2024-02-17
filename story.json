@@ -12,8 +12,8 @@
         },
         {
             "image": "https://www.pythonstudio.us/language-overview/images/6050_826567_featured_image-pyhton-conclusion.jpg",
-            "title": "Python sum() Function",
-            "des": "Add all items in a tuple, and return the result:\n\na = (1, 2, 3, 4, 5)\nx = sum(a)\n\nDefinition and Usage\nThe sum() function returns a number, the sum of all items in an iterable.\n\nSyntax\nsum(iterable, start)"
+            "title": "Python While Loops",
+            "des": "Python Loops\n\nPython has two primitive loop commands:\nwhile loops\nfor loops\n\nThe while Loop\nWith the while loop we can execute a set of statements as long as a condition is true."
         }
     ]
 }
