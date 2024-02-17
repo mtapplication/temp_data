@@ -19,6 +19,21 @@
             "image": "https://www.pythonstudio.us/language-overview/images/6050_826567_featured_image-pyhton-conclusion.jpg",
             "title": "Python For Loops",
             "des": "Python For Loops\nA for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).\nThis is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.\nWith the for loop we can execute a set of statements, once for each item in a list, tuple, set etc."
+        },
+        {
+            "image": "https://www.pythonstudio.us/language-overview/images/6050_826567_featured_image-pyhton-conclusion.jpg",
+            "title": "Python Functions",
+            "des": "A function is a block of code which only runs when it is called.\nYou can pass data, known as parameters, into a function.\nA function can return data as a result.\n\nCreating a Function\nIn Python a function is defined using the def keyword.\n\nCalling a Function\nTo call a function, use the function name followed by parenthesis."
+        },
+        {
+            "image": "https://www.pythonstudio.us/language-overview/images/6050_826567_featured_image-pyhton-conclusion.jpg",
+            "title": "Python Lambda",
+            "des": "A lambda function is a small anonymous function.\nA lambda function can take any number of arguments, but can only have one expression.\n\nSyntax\nlambda arguments : expression\nThe expression is executed and the result is returned.\nLambda functions can take any number of arguments."
+        },
+        {
+            "image": "https://www.pythonstudio.us/language-overview/images/6050_826567_featured_image-pyhton-conclusion.jpg",
+            "title": "Python Classes and Objects",
+            "des": "Python Classes/Objects\nPython is an object oriented programming language.\nAlmost everything in Python is an object, with its properties and methods.\nA Class is like an object constructor, or a blueprint for creating objects.\n\nCreate a Class\nTo create a class, use the keyword class:"
         }
     ]
 }
