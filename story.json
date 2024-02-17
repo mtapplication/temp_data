@@ -14,6 +14,11 @@
             "image": "https://www.pythonstudio.us/language-overview/images/6050_826567_featured_image-pyhton-conclusion.jpg",
             "title": "Python While Loops",
             "des": "Python Loops\n\nPython has two primitive loop commands:\nwhile loops\nfor loops\n\nThe while Loop\nWith the while loop we can execute a set of statements as long as a condition is true."
+        },
+        {
+            "image": "https://www.pythonstudio.us/language-overview/images/6050_826567_featured_image-pyhton-conclusion.jpg",
+            "title": "Python For Loops",
+            "des": "Python For Loops\nA for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).\nThis is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.\nWith the for loop we can execute a set of statements, once for each item in a list, tuple, set etc."
         }
     ]
 }
