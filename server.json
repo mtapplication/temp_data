@@ -1,10 +1,27 @@
-[
-    {
-        "server_location": "SG",
-        "server_token": "vless://69e97eae-093e-4303-866c-b5f12b3375fe@198.62.62.156:443?encryption=none&security=tls&sni=delicious.fruitpipers.dynv6.net&alpn=h3&fp=random&type=ws&host=delicious.fruitpipers.dynv6.net&path=%2F%3Fed%3D2560#US1"
-    },
-    {
-        "server_location": "SG",
-        "server_token": "vless://69e97eae-093e-4303-866c-b5f12b3375fe@129.150.32.171:6443?encryption=none&security=tls&sni=delicious.fruitpipers.dynv6.net&alpn=h3&fp=random&type=ws&host=delicious.fruitpipers.dynv6.net&path=%2F%3Fed%3D2560#SG"
-    }
-]
+{
+    "status": "success",
+    "message": "Server list retrieved successfully",
+    "data": [
+        {
+            "server": "vless://69e97eae-093e-4303-866c-b5f12b3375fe@198.62.62.156:443?encryption=none&amp;security=tls&amp;sni=delicious.fruitpipers.dynv6.net&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=delicious.fruitpipers.dynv6.net&amp;path=%2F%3Fed%3D2560#US1"
+        },
+        {
+            "server": "vless://a80305f9-f207-4fcd-9d67-a05112a2ebd1@69.84.182.59:443?encryption=none&amp;security=tls&amp;sni=hello.mushroomeater.dynv6.net&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=hello.mushroomeater.dynv6.net&amp;path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#US2"
+        },
+        {
+            "server": "vless://a80305f9-f207-4fcd-9d67-a05112a2ebd1@198.62.62.235:443?encryption=none&amp;security=tls&amp;sni=hello.mushroomeater.dynv6.net&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=hello.mushroomeater.dynv6.net&amp;path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#US3"
+        },
+        {
+            "server": "vless://a80305f9-f207-4fcd-9d67-a05112a2ebd1@8.222.178.214:6666?encryption=none&amp;security=tls&amp;sni=hello.mushroomeater.dynv6.net&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=hello.mushroomeater.dynv6.net&amp;path=%2F%3Fproxyip%3Dproxyip.sg.fxxk.dedyn.io#SG1"
+        },
+        {
+            "server": "vless://a80305f9-f207-4fcd-9d67-a05112a2ebd1@129.150.50.63:443?encryption=none&amp;security=tls&amp;sni=hello.mushroomeater.dynv6.net&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=hello.mushroomeater.dynv6.net&amp;path=%2F%3Fproxyip%3Dproxyip.sg.fxxk.dedyn.io#SG2"
+        },
+        {
+            "server": "vless://69e97eae-093e-4303-866c-b5f12b3375fe@154.19.186.124:16873?encryption=none&amp;security=tls&amp;sni=delicious.fruitpipers.dynv6.net&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=delicious.fruitpipers.dynv6.net&amp;path=%2F%3Fed%3D2560#JP"
+        },
+        {
+            "server": "vless://63682cfd-9440-4f41-b1dc-d5f20360073b@121.149.108.131:39441?encryption=none&amp;security=tls&amp;sni=hello.blackbear2027.dynv6.net&amp;alpn=h3&amp;fp=random&amp;type=ws&amp;host=hello.blackbear2027.dynv6.net&amp;path=%2F%3Fed%3D2560#KR"
+        }
+    ]
+}
