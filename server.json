@@ -1,6 +1,6 @@
 [
     {
-        "server_location": "🇦🇹 Austria - S[1]",
+        "server_location": "SG",
         "server_token": "vless://69e97eae-093e-4303-866c-b5f12b3375fe@198.62.62.156:443?encryption=none&security=tls&sni=delicious.fruitpipers.dynv6.net&alpn=h3&fp=random&type=ws&host=delicious.fruitpipers.dynv6.net&path=%2F%3Fed%3D2560#US1"
     },
     {
