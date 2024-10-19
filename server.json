@@ -4,7 +4,7 @@
         "server_token": "vless://69e97eae-093e-4303-866c-b5f12b3375fe@198.62.62.156:443?encryption=none&security=tls&sni=delicious.fruitpipers.dynv6.net&alpn=h3&fp=random&type=ws&host=delicious.fruitpipers.dynv6.net&path=%2F%3Fed%3D2560#US1"
     },
     {
-        "server_location": "🇦🇹 Austria - S[2]",
-        "server_token": "vless://e7b04b46-ce50-4504-abef-1fdce0f0d93f@at3.v2vless.site:443?security=tls&encryption=none&type=ws&host=at3.v2vless.site&path=/vless&sni=at3.v2vless.site&fp=chrome#🇦🇹 Austria - S[2]"
+        "server_location": "SG",
+        "server_token": "vless://69e97eae-093e-4303-866c-b5f12b3375fe@129.150.32.171:6443?encryption=none&security=tls&sni=delicious.fruitpipers.dynv6.net&alpn=h3&fp=random&type=ws&host=delicious.fruitpipers.dynv6.net&path=%2F%3Fed%3D2560#SG"
     }
 ]
